@@ -1,4 +1,4 @@
-# Opticl-Ocr - CL versions of Unpaper algorithms
+# [WIP] Opticl-Ocr - CL versions of Unpaper algorithms
 
 ## Usage
 
